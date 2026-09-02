@@ -1,4 +1,4 @@
-# HumanIA - Fase de ideación
+### HumanIA - Fase de ideación
 
 Diseño de Pitch Deck para comunicar de forma efectiva el proyecto a la audiencia elegida.
 
